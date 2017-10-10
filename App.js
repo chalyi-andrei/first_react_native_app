@@ -64,6 +64,6 @@ const styles = StyleSheet.create({
   },
   img: {
     width: 183,
-    height: 120
+    height: 110
    }
 });
